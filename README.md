@@ -13,7 +13,7 @@
 - 🎓 2nd year **Computer Engineering** student
 - 📱 Currently learning **mobile app development** with **Kotlin + Android Studio**
 - ⚡ Passionate about **circuit design** and hardware
-- ☕ Taking **Java OOP** at university and loving (surviving?) it
+- ☕ Taking **Java OOP** at university and learning OOP concepts
 - 🌍 Based in **Turkey** | 🇹🇷 Native Turkish · 🇬🇧 B2 English
 - 😄 Joyful person who believes learning should be fun!
 
@@ -27,6 +27,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -38,9 +40,8 @@
 
 | 🔭 Current Focus | 📚 Learning |
 |---|---|
-| Building my first Android app with Kotlin | Advanced OOP concepts in Java |
+| Building my Android apps with Kotlin | Advanced OOP concepts in Java |
 | Exploring circuit design projects | Data Structures & Algorithms |
-| Publishing my university projects on GitHub | Android SDK & Jetpack components |
 
 ---
 
@@ -48,12 +49,12 @@
 
 ### 🧠 Greedy Algorithms
 > Implementations of classic greedy algorithm problems — from activity selection to Huffman coding.
-- 📌 Languages: `Java` / `C`
+- 📌 Languages: `C++` / `C`
 - 🔗 [View Repository](#) *(add your repo link here)*
 
 ### 🌳 Data Structures — Term Projects
 > My coursework projects covering fundamental data structures: linked lists, trees, graphs, and more.
-- 📌 Languages: `Java`
+- 📌 Languages: `C++`
 - 🔗 [View Repository](#) *(add your repo link here)*
 
 ---
@@ -74,10 +75,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) <!-- Replace # with your LinkedIn URL -->
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#) <!-- Replace # with your X/Twitter URL -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) <!-- Replace # with your Instagram URL -->
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com) <!-- Replace with your email -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetmurt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.mehmet0116/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hacmehmet0117@gmail.com)
 
 </div>
 
@@ -90,3 +90,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mehmet992&color=F7B731&style=flat-square)
 
 </div>
+
+---
