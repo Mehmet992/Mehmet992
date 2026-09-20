@@ -2,7 +2,7 @@
 
 # Hey there! I'm Mehmet 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%8E%93;Learning+Kotlin+%26+Android+Dev+%F0%9F%93%B1;Into+Circuits%2C+Algorithms+%26+Cool+Stuff+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=3rd+Year+Comp+Eng+Student+%F0%9F%8E%93;Cross-Platform+Mobile+Dev+(Flutter)+%F0%9F%93%B1;Game+Dev+Enthusiast+%F0%9F%8E%AE;Building%2C+Designing+%26+Creating+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,12 +10,11 @@
 
 ## 🙋 About Me
 
-- 🎓 2nd year **Computer Engineering** student
-- 📱 Currently learning **mobile app development** with **Kotlin + Android Studio**
-- ⚡ Passionate about **circuit design** and hardware
-- ☕ Taking **Java OOP** at university and learning OOP concepts
+- 🎓 3rd-year **Computer Engineering** student
+- 📱 Developing cross-platform mobile apps with **Flutter & Dart**
+- 🎮 Exploring **Game Development** & interactive systems using **Unity & C#**
 - 🌍 Based in **Turkey** | 🇹🇷 Native Turkish · 🇬🇧 B2 English
-- 😄 Joyful person who believes learning should be fun!
+- 😄 Joyful builder who loves crafting clean mobile experiences and playable worlds!
 
 ---
 
@@ -23,12 +22,11 @@
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -38,23 +36,23 @@
 
 ## 🚀 What I'm Up To
 
-| 🔭 Current Focus | 📚 Learning |
+| 🔭 Current Focus | 📚 Learning & Exploring |
 |---|---|
-| Building my Android apps with Kotlin | Advanced OOP concepts in Java |
-| Exploring circuit design projects | Data Structures & Algorithms |
+| Responsive UI & state management in Flutter | Gameplay mechanics, physics & animation in Unity |
+| REST APIs & cloud service integration for mobile apps | Shader Graph, level design & performance optimization |
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 Greedy Algorithms
-> Implementations of classic greedy algorithm problems — from activity selection to Huffman coding.
-- 📌 Languages: `C++` / `C`
+### 📱 Flutter Mobile Applications
+> Cross-platform mobile applications focused on smooth user interfaces, state management, and real-time API integrations.
+- 📌 Stack: `Flutter SDK`, `Dart`
 - 🔗 [View Repository](#) *(add your repo link here)*
 
-### 🌳 Data Structures — Term Projects
-> My coursework projects covering fundamental data structures: linked lists, trees, graphs, and more.
-- 📌 Languages: `C++`
+### 🎮 Game Development Prototypes
+> Gameplay systems, character movement scripts, and interactive level prototypes.
+- 📌 Stack: `Unity`, `C#`
 - 🔗 [View Repository](#) *(add your repo link here)*
 
 ---
@@ -77,7 +75,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetmurt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.mehmet0116/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hacmehmet0117@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmehmet0117@gmail.com)
 
 </div>
 
@@ -90,5 +88,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mehmet992&color=F7B731&style=flat-square)
 
 </div>
-
----
